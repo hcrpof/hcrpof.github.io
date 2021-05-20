@@ -1,5 +1,5 @@
 ---
 layout: page
 title: "О нас"
-permalink: /contacts/
+permalink: /about/
 ---
