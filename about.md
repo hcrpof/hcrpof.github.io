@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "Наши контакты"
+title: "О нас"
 permalink: /contacts/
 ---
