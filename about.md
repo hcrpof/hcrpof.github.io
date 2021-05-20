@@ -3,5 +3,4 @@ layout: page
 title: "О нас"
 permalink: /about/
 ---
-
-# Основной заголовок
+# Основной заголовок1
